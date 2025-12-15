@@ -70,7 +70,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="25" alt="anaconda logo"  />
 </div>
 
+
 ###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Napawan2005&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div>
+  <span align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Napawan2005&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Napawan2005's GitHub Stats" />
+  </span>
+  <span align="right">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Napawan2005&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Napawan2005's GitHub Stats" />
+  </span>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Napawan2005/Napawan2005/output/pacman-contribution-graph-dark.svg">
